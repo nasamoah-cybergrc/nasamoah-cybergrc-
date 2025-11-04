@@ -84,3 +84,20 @@ Showcase portfolio: ISO 27001 Risk Register, NIST CSF Gap Analysis, and Python C
   <img src="https://img.shields.io/badge/Power%20BI-Compliance%20Reporting-F2C811?style=for-the-badge&logo=powerbi" />
   <img src="https://img.shields.io/badge/Microsoft%20Defender-Security%20Tools-blue?style=for-the-badge&logo=microsoft" />
 </p>
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nasamoah-cybergrc&show_icons=true&theme=tokyonight&hide_border=true" alt="Nana's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nasamoah-cybergrc&theme=tokyonight&hide_border=true" alt="Nana's GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasamoah-cybergrc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
