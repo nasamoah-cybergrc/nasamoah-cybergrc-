@@ -101,3 +101,6 @@ Showcase portfolio: ISO 27001 Risk Register, NIST CSF Gap Analysis, and Python C
 </p>
 
 ---
+---
+
+<p align="center">🛡️ “Building trust through governance, compliance, and continuous learning.”</p>
