@@ -63,17 +63,24 @@ Showcase portfolio: ISO 27001 Risk Register, NIST CSF Gap Analysis, and Python C
 ---
 
 ## 🛠️ Tools & Technologies
-Python · Excel · Power BI · Microsoft Defender · Microsoft Sentinel · ISO 27001 · NIST CSF · Cloud Security (Azure/AWS) · Markdown · GitHub
+### 🧩 Skills & Certifications
 
----
-
-## 🌍 Connect With Me
-📧 **Email:** n-asamoah@outlook.com  
-💼 **LinkedIn:** [linkedin.com/in/nana-asamoah-grc](https://linkedin.com/in/nana-asamoah-grc)  
-📂 **GitHub:** [github.com/nasamoah-cybergrc](https://github.com/nasamoah-cybergrc)
-
----
-
-⭐ *“I’m continuously learning and documenting my growth in cybersecurity governance and compliance — one project at a time.”*
-
-
+<p align="center">
+  <!-- Governance & Compliance -->
+  <img src="https://img.shields.io/badge/ISO_27001-Governance%20%26%20Compliance-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NIST_CSF-Risk%20Management-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GRC-Frameworks-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IBM-Cybersecurity%20Compliance-lightgrey?style=for-the-badge" />
+  <br/>
+  <!-- Security & Technical -->
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia" />
+  <img src="https://img.shields.io/badge/Google-Cybersecurity%20Certificate-green?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/Microsoft-IT%20Support-blue?style=for-the-badge&logo=microsoft" />
+  <img src="https://img.shields.io/badge/Harvard-CS50%20Computer%20Science-maroon?style=for-the-badge&logo=harvard" />
+  <br/>
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Python-Programming-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Excel-Risk%20Register-success?style=for-the-badge&logo=microsoft-excel" />
+  <img src="https://img.shields.io/badge/Power%20BI-Compliance%20Reporting-F2C811?style=for-the-badge&logo=powerbi" />
+  <img src="https://img.shields.io/badge/Microsoft%20Defender-Security%20Tools-blue?style=for-the-badge&logo=microsoft" />
+</p>
